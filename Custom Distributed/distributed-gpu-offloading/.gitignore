@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+output/
+media/screenshots/*.png
+media/demos/*.gif
+results.csv
