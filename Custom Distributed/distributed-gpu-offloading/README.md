@@ -69,3 +69,5 @@ To measure the speedup of remote offloading versus local rendering:
 
 ## Technologies Used
 Python (Sockets, Threading, Subprocess, Queue), CustomTkinter, FFmpeg, Matplotlib, SHA-256.
+
+![alt text](image.png)
